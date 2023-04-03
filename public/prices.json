@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Basic",
+        "price": 9.99,
+        "features": [
+            "1 user",
+            "10GB storage"
+            
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Standard",
+        "price": 19.99,
+        "features": [
+            "3 users",
+            "50GB storage",
+            "Priority support"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Premium",
+        "price": 49.99,
+        "features": [
+            "10 users",
+            "100GB storage",
+            "Premium support"
+        ]
+    }
+]
